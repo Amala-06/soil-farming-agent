@@ -4,6 +4,10 @@ Running instruction:
   name = anne 
   password = 23456
   key =340
+  
+  
+  
+  
 Soil is a crucial component in agriculture. There are various types of soil. Different sorts of crops thrive on different types of soils, and each type of soil has its own set of characteristics. To understand which crops grow best in which soil types, we need to grasp the traits and characteristics of distinct soil types. The proposed application admin would update the information in the portal and crop/seed distributor details with the help of soil and crop specialists. These soil and distributor details can be viewed by the user.
 
 BENEFITS:
